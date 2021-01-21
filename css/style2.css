@@ -1,0 +1,34 @@
+{
+	font-size: 30px;
+}
+
+#principal{	
+	background:#F5F5F5; 
+	width:100% ; 
+	height:100% ; 
+	text-align: center;
+	/*color: #4E423D*/
+}
+
+#login{
+	background:#62B7ED ; 
+	width:400px; 
+	height:auto; 
+	font-family: Calibrí ; 
+	font-size: 15px;
+	padding:15px;
+	border-radius:5px;
+	box-shadow:10px 10px 20px #000;
+	margin-left: 35%;
+
+}
+#encabezado{
+	color: #045A97;
+
+	background:#fff ;   
+	text-align: center;           
+	margin-top: 10px ;         
+	border-radius: 5px ; 
+	padding: 5px 1px 5px 1px;        
+}
+

@@ -1,0 +1,167 @@
+#formulario{
+    		border-radius: 10px;
+    		box-shadow: 10px 10px 5px #620505;
+    	}
+    	#text{
+    		text-align: center
+    	}
+    	#public{
+    		border-radius: 15px;
+    		box-shadow: 10px 10px 5px #620505;
+    		font-size: 20px;
+		}
+		/*#date{
+			width: 500px;
+			text-align: center;
+		}*/
+		#buy{
+    		border-radius: 15px;
+    		box-shadow: 10px 10px 5px #620505;
+    		font-size: 20px;
+    	}
+		#select{
+			border-radius: 4px;
+    		color: #1c1e21;
+		    height: 36px;
+		    line-height: 20px;
+		}
+		.mnu_item{
+			background: #343a40;
+			margin-top: 1px;
+			width: 150px;
+			list-style: none;
+			padding: 5px 0px 5px 8px;
+			border-radius: 2px;
+		}
+		.mnu_item a{
+			text-decoration: none;
+			color: #5bc0de;
+		}
+		.mnu_item:hover{
+			background: #252E35;
+			width: 160px;
+			transition: 1s;
+		}
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+{
+	font-size: 30px;
+
+}
+
+#principal{	
+	background:#F5F5F5; 
+	width:100% ; 
+	height:100% ; 
+	text-align: center;
+	/*color: #4E423D*/
+}
+
+/*#login{
+	background:#62B7ED ; 
+	width:400px; 
+	height:auto; 
+	font-family: Calibrí ; 
+	font-size: 15px;
+	padding:15px;
+	border-radius:5px;
+	box-shadow:10px 10px 20px #000;
+	margin-left: 35%;
+
+}
+#encabezado{
+	color: #045A97;
+
+	background:#fff ;   
+	text-align: center;           
+	margin-top: 10px ;         
+	border-radius: 5px ; 
+	padding: 5px 1px 5px 1px;        
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*#login2{
+		position: absolute;
+		left: 1200px ;
+		background:#FF3333 ; 
+		width:250px ; 
+		height:250px ; 
+		font-family: Calibrí ; 
+		font-size: 50px ;
+	}
+	#login3{
+		position: absolute;
+		left: 1800px;
+		background:#FFC500 ; 
+		width:250px ; 
+		height:250px ; 
+		font-family: Calibrí ; 
+		font-size: 50px
+}/*
+#login4{
+	background:#FF4600 ; 
+	width:250px ; 
+	height:250px ; 
+	font-family: Calibrí ; 
+	font-size: 50px
+}
+#login5{
+	
+	width:250px ; 
+	height:250px ; 
+	font-family: Calibrí ; 
+	font-size: 50px
+}
